@@ -1,2 +1,2 @@
 # DePaul-Cybersecurity-Automation-Test
-Scripting Class
+This is a sample readme.
